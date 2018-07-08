@@ -1,7 +1,8 @@
-package com.github.lossalvajes.movies
+package com.github.lossalvajes.movies.presentation.view
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.github.lossalvajes.movies.R
 
 class MainActivity : AppCompatActivity() {
 

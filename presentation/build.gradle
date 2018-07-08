@@ -44,9 +44,9 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
     api presentationDependencies.daggerCompiler
-    implementation presentationDependencies.dagger
+//    implementation presentationDependencies.dagger
 //    compile presentationDependencies.butterKnife
-    implementation presentationDependencies.recyclerView
+//    implementation presentationDependencies.recyclerView
     implementation presentationDependencies.rxJava
     implementation presentationDependencies.rxAndroid
     compileOnly presentationDependencies.javaxAnnotation
